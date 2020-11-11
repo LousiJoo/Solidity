@@ -110,7 +110,7 @@ contract SuperUltraPowerCoin is StandardToken { // CHANGE THIS. Update the contr
         name = "SbexeToken";                                   // Set the name for display purposes (CHANGE THIS)
         decimals = 18;                                               // Amount of decimals for display purposes (CHANGE THIS)
         symbol = "SBXT";                                             // Set the symbol for display purposes (CHANGE THIS)
-        unitsOneEthCanBuy = 200000;                                      // Set the price of your token for the ICO (CHANGE THIS)
+        unitsOneEthCanBuy = 500000;                                      // Set the price of your token for the ICO (CHANGE THIS)
         fundsWallet = msg.sender;                                    // The owner of the contract gets ETH
     }
 
